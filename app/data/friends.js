@@ -1,3 +1,4 @@
+// this file is called by apiRoutes.js
 var friends = [
 	{
 		name: "Charlie",
